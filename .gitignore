@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Урок 2/
 =======
+=======
+>>>>>>> Урок_3
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudio
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudio
 
@@ -361,4 +364,7 @@ MigrationBackup/
 .ionide/
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio
+<<<<<<< HEAD
 >>>>>>> Урок_1
+=======
+>>>>>>> Урок_3
